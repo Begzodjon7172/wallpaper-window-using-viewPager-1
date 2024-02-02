@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WallpaperViewPager1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#011627</item>
+        <item name="colorPrimaryVariant">#011627</item>
+    </style>
+
+    <style name="Theme.WallpaperViewPager1" parent="Base.Theme.WallpaperViewPager1" />
+</resources>
